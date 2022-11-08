@@ -7,7 +7,7 @@ const API_KEY = 'xxx';
 
 // The domains that you want to be prerendered.
 const PRERENDERED_DOMAINS = [
-  'example.com'
+  'dep.plus'
 ];
 
 /**
